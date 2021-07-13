@@ -1,0 +1,16 @@
+{
+  "name": "introai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "espree": "^8.0.0",
+    "js-sha1": "^0.6.0",
+    "pg": "^8.6.0"
+  }
+}
